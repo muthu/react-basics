@@ -1,0 +1,11 @@
+.book-summary { 
+    width: 25rem; 
+    padding: 0.5rem; 
+    margin: 1rem; 
+    background-color: lightsteelblue; 
+    border-radius: 1rem; 
+} 
+
+.book-selected { 
+    background-color: rgb(236, 24, 24); 
+} 

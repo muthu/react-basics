@@ -1,0 +1,26 @@
+[ 
+    { 
+        "title": "Moby Dick", 
+        "summary": "A crazed captain hunts a white whale." 
+    }, 
+
+    { 
+        "title": "Pride and Prejudice", 
+        "summary": "A classic romance story about manners and matrimony." 
+    }, 
+
+    { 
+        "title": "The Great Gatsby", 
+        "summary": "A story about the mysterious and wealthy Jay Gatsby." 
+    }, 
+
+    { 
+        "title": "The Hobbit", 
+        "summary": "A hobbit embarks on a journey to help dwarves reclaim their mountain." 
+    }, 
+
+    { 
+        "title": "The Odyssey", 
+        "summary": "Odysseus' long journey home after the Trojan War." 
+    } 
+] 
